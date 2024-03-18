@@ -1,0 +1,4 @@
+﻿  test.c
+D:\明解c语言练习题\3.18\test.c 3.18\test.c(49,6): warning C4101: “a”: 未引用的局部变量
+D:\明解c语言练习题\3.18\test.c 3.18\test.c(49,9): warning C4101: “b”: 未引用的局部变量
+  test.c 3.18.vcxproj -> D:\明解c语言练习题\3.18\test.c 3.18\x64\Debug\test.c 3.18.exe
